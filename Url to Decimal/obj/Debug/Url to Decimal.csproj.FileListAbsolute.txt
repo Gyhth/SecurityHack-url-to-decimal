@@ -1,0 +1,6 @@
+C:\Users\Owner\Source\Repos\SecurityHack-url-to-decimal\Url to Decimal\bin\Debug\Url to Decimal.exe.config
+C:\Users\Owner\Source\Repos\SecurityHack-url-to-decimal\Url to Decimal\bin\Debug\Url to Decimal.exe
+C:\Users\Owner\Source\Repos\SecurityHack-url-to-decimal\Url to Decimal\bin\Debug\Url to Decimal.pdb
+C:\Users\Owner\Source\Repos\SecurityHack-url-to-decimal\Url to Decimal\obj\Debug\Url to Decimal.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Source\Repos\SecurityHack-url-to-decimal\Url to Decimal\obj\Debug\Url to Decimal.exe
+C:\Users\Owner\Source\Repos\SecurityHack-url-to-decimal\Url to Decimal\obj\Debug\Url to Decimal.pdb
